@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**lfsc09/lfsc09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Lucas, if you would like to reach me professionaly ([say hi](https://www.linkedin.com/in/lucasfscastro/)). \
+Here you may also find some of my personal projects that I like to spend my time on. _(Check my pinned repos)_
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+
+| - | - |
+| ---- | ---- |
+| [kdongs-angular](https://github.com/lfsc09/kdongs-angular) |  |
+| [kdocs](https://kdongs.gitbook.io/kdocs) | A library of my studing notes that I keep for my memory. |
