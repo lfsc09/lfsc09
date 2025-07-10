@@ -1,4 +1,4 @@
-## Hello there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans+Serif&weight=600&size=25&pause=1000&color=1F2328&repeat=false&random=true&lines=Hello+stranger+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 This is Lucas, if you would like to reach me:
 
@@ -19,7 +19,7 @@ Working on:
 
 </br>
 
-## Skills 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans+Serif&pause=1000&color=1F2328&repeat=false&random=true&height=30&lines=Skills+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <div>
   <img title="Javascript" alt="Javascript" height="40em" src="https://skillicons.dev/icons?i=js">
@@ -72,6 +72,6 @@ Working on:
 
 </br>
 
-## Metrics
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans+Serif&pause=1000&color=1F2328&repeat=false&random=true&height=30&lines=Metrics)](https://git.io/typing-svg)
 
 ![Views](https://komarev.com/ghpvc/?username=lfsc09&label=Views&color=a9b40e&style=for-the-badge)
